@@ -1,0 +1,153 @@
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: "Prompt", sans-serif;
+}
+
+h2.header-description {
+  margin-top: 0;
+}
+h1 {
+  color: #66bfbf;
+}
+
+h2 {
+  color: #66bfbf;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+h3 {
+  color: #11999e;
+}
+p {
+  line-height: 2;
+}
+a {
+  color: #11999e;
+  margin: 20px 30px;
+  text-decoration: none;
+}
+a:hover{
+    color: #EAF6F6;
+}
+hr {
+  width: 5%;
+  border-style: dotted none none none;
+  border-width: 0.5rem;
+  border-color: rgb(182, 182, 182);
+  margin: 100px auto 100px auto;
+}
+.header-logo {
+  font-family: "Sacramento", cursive;
+  font-size: 5.625rem;
+  margin: 100px auto 10px auto;
+}
+.top-container {
+  background-color: #bfeaf5;
+  position: relative;
+}
+.middle-container {
+  margin-top: 100px;
+}
+.top-cloud {
+  position: relative;
+  left: 300px;
+  top: 100px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+}
+.pro {
+  background-color: #92ddf0;
+  color: white;
+  padding: 2px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.profile-img {
+  width: 15%;
+}
+.intro {
+    width: 30%;
+    margin: auto;
+  }
+.message-intro {
+    width: 40%;
+    margin: auto;
+    margin-bottom: 50px;
+  }
+.code {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.python {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.btn {
+  background: linear-gradient(to bottom, #11cdd4, #11999e);
+  border-radius: 8px;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.btn:hover {
+  background: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.contact-me {
+  margin: 50px;
+}
+.bottom-container {
+  background: linear-gradient(to bottom, #11cdd4, #11999e);
+  padding: 20px;
+}
+.copyright{
+    color: #EAF6F6;
+    margin-bottom: 0;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+/* ******** This is for if you want text below the image*********  */
+/* .skill-description-1{
+    clear: left;
+}
+.skill-description-2{
+    clear: right;
+} */
+
+/* .middle-container{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    position: relative;
+    left: 412px;
+}
+.bottom-container{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    position: relative;
+    right: 200px;
+}
+.third-container{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    display: inline-block;
+    position: relative;
+    right: 200px;
+} */
